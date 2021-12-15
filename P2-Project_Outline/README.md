@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The project will be a website that is able to promote a small business. 
+The website will show off their past work, be able to take information for quotes,
+provide user log ins if they wish to see past quotes and updates, and provide the
+owner with customer data. The website could also allow the owner to filter the
+quote data by locations and prices.
+
 ### Features
-Include Features here
+1. User login
+2. User quote information stored in a database
+3. Owner is able to see/filter quote info and update or delete
+
 ### Technologies
-Include Technologies here
+Java, Spring Boot, MySQL, Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to send email notifications when requests for quotes 
+are submitted. I would also like to learn more JavaScript for a more interactive
+front-end. 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/rPixcK36/liftoff-project-website
